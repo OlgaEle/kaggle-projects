@@ -6,3 +6,4 @@ Feel free to browse through the projects below and click on the links to navigat
 
 1) [Carbon Footprint | EDA | RF Regression🌱](https://github.com/OlgaEle/Kaggle-Projects/blob/main/carbon-footprint-eda-rf-regression.ipynb)
 2) [Food Delivery Apps Reviews | EDA | Sentiment Analysis🍕](food-delivery-apps-reviews-eda-sentiment-analysis.ipynb)
+3) [Simple Linear Regression Without Libraries💸](simple-linear-regression-without-libraries.ipynb)
